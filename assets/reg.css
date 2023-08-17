@@ -1,0 +1,16 @@
+#header{
+    text-align: center;
+    
+}
+
+.header__section{
+    margin-top:1rem;
+}
+.list{
+    text-align: left;
+    margin: 1rem 1rem;
+}
+
+.list__el{
+    margin: 0.5rem 0;
+}
